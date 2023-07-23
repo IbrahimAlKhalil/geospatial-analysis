@@ -1,0 +1,11 @@
+name: geospatial_analysis
+description: A high-performance geospatial analysis library for Dart, offering a comprehensive set of functionalities for spatial data manipulation and analysis. This library aims to provide developers with fast and efficient tools to perform various geospatial operations, making it a valuable asset for location-based applications and GIS-related projects.
+version: 0.0.0
+repository: https://github.com/IbrahimAlKhalil/geospatial-analysis
+
+environment:
+  sdk: ^3.0.5
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
